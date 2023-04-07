@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
 	<parent>
-		<groupId>PhilippeRG</groupId> <!-- à changer par le nom du groupe -->
+		<groupId>LeoDonati</groupId> <!-- à changer par le nom du groupe -->
 		<artifactId>DiceForgeGame</artifactId> <!-- et le nom du projet -->
 		<version>1.0</version>
 	</parent>
@@ -59,7 +59,7 @@
     <dependencies>
 
 		<dependency>
-            <groupId>PhilippeRG</groupId>
+            <groupId>LeoDonati</groupId>
             <artifactId>commun</artifactId>
             <version>1.0</version>
         </dependency>
