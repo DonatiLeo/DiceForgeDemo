@@ -14,10 +14,6 @@
 	<version>1.0</version>
 
 
-
-
-
-
     <build>
         <sourceDirectory>src/main/java</sourceDirectory>  <!-- éventuellement à changer : localisation des fichiers sources -->
         <plugins>
