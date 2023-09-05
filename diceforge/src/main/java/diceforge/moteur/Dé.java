@@ -11,7 +11,7 @@ public class Dé {
     private final Random rand;
 
     /**
-     * le Random est à l'extérieur car il est mieux qu'il n'y ait qu'une instance (mieux pour le pseudo aléatoire)
+     * le Random est à l'extérieur car il est mieux qu'il n'y ait qu'une instance
      *
      * @param rand
      */
